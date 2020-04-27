@@ -79,7 +79,7 @@ public class QuorumPeerMain {
 
     protected QuorumPeer quorumPeer;
 
-    /**
+    /** program arguments: 指定配置文件路径 /Users/xionghao/github/apache/zookeeper/zookeeper-server/target/classes/zoo_sample.cfg
      * To start the replicated server specify the configuration file name on
      * the command line.
      * @param args path to the configfile
